@@ -358,14 +358,13 @@ body {
 
 .column2 {
   flex: 1 1 50%;
-  //padding: 15px;
+  padding: 15px;
 }
 
 .column2 img {
   width: 100%;
   height: auto;
   display: block;
-  //padding-left: 70px;
 }
 
 @media (max-width: 768px) {
