@@ -349,3 +349,13 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+.row {
+  display: flex;
+}
+
+/* Each column takes up an equal amount of space */
+.column {
+  flex: 1; 
+  padding: 10px; /* Optional spacing */
+}
+
