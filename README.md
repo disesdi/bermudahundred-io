@@ -1,1 +1,1 @@
-# https://bermudahundred.io
+# bermudahundred.io
